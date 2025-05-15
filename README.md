@@ -1,4 +1,5 @@
 📊 Call Center Report Dashboard – 2025
+
 📁 Project Overview
 This project presents an interactive Excel dashboard that provides a comprehensive overview of a call center’s performance metrics for the year 2025. It helps stakeholders understand call volumes, representative performance, customer satisfaction, and revenue trends — all through visual analytics and slicer-driven insights.
 
